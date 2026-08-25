@@ -21,4 +21,4 @@ Tampermonkey 用户脚本，在 [B站动态页](https://t.bilibili.com/?tab=vide
 
 ## 许可证
 
-MIT
+本项目基于 [GPL-3.0](LICENSE) 协议开源。
