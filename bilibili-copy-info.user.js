@@ -8,7 +8,7 @@
 // @icon         https://www.bilibili.com/favicon.ico
 // @run-at       document-end
 // @grant        GM_addStyle
-// @license      MIT
+// @license      AGPL-3.0
 // ==/UserScript==
 
 (function () {
